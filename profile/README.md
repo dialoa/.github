@@ -1,20 +1,23 @@
-# Dialoa
+Dialoa
+======
 
 Dialoa (Dialectica's Open Access team) develops a framework 
 to produce high-quality Open Access journals 
-using a markdown- and [Pandoc](https://pandoc.org/)-based workflow.
+using a markdown- and [Pandoc](https://pandoc.org/) based workflow.
 
-## The Dialoa publishing framework
+The Dialoa publishing framework
+-------------------------------
 
-The framework is designed to produce professional quality
-outputs (PDFs, epubs, ...) at a lost cost. Our goal is to enable
+The framework is designed to produce professional-quality
+outputs (PDFs, epubs, ...) at a low cost. Our goal is to enable
 small teams of academics with little prior technical knwoledge
 and a tight budget to produce beautiful PDFs and webpages.
 
 The complete framework is still under development but will 
 be made available here when mature. 
 
-## Dialoa publishing tools
+Dialoa publishing tools
+-----------------------
 
 We're publishing here framework components that can be reused
 independently. 
