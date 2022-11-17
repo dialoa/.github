@@ -45,7 +45,7 @@ Have a look around!
 
 ## Membership
 
-PR welcomes. Get in touch if you'd like to join the organization.
+Issues and PRs welcome. Get in touch if you'd like to join the organization.
 
 ## Credits
 
