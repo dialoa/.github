@@ -28,7 +28,11 @@ independently.
 * Production tools, such as:
   * pandoc filters to handle columns, statements (theorems), etc.
   * a highly flexible template for advanced LaTeX output (pandokoma)
-* Development tools, e.g. luabuilder
+* Development tools:
+  * `docker-ojs-dev` dockerized Open Journal Systems for plugin 
+    development.
+  * `luabuilder`: to write large Pandoc lua filters from multiple
+    files.
 
 What is deposited here is currently used in the production
 process of journal, [Dialectica](https://dialectica.philsoophie.ch).
