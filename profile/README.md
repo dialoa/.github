@@ -25,6 +25,10 @@ independently.
 * Documentation: an Open Manual of Markdown Style for 
   copyeditors that doesn't require
   technical knowledge of markdown, LaTeX, the command line etc.
+* A journal management tool: `dialectica`, a review management
+  application that implements triple-blind refereeing (papers
+  are anonymous to the editors) and a 'fishpond' model where
+  editors pick papers to promote to the board.
 * Production tools, such as:
   * pandoc filters to handle columns, statements (theorems), etc.
   * a highly flexible template for advanced LaTeX output (pandokoma)
