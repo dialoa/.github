@@ -54,4 +54,4 @@ Issues and PRs welcome. Get in touch if you'd like to join the organization.
 ## Credits
 
 Dialoa is a project of the association [philosophie.ch](https://philosophie.ch)
-developed for the academic journal [Dialectica](https://dialectica.philsoophie.ch).
+developed for the academic journal [Dialectica](https://dialectica.philosophie.ch).
