@@ -22,19 +22,18 @@ Dialoa publishing tools
 We're publishing here framework components that can be reused
 independently. 
 
-* Documentation: an Open Manual of Markdown Style for 
-  copyeditors that doesn't require
-  technical knowledge of markdown, LaTeX, the command line etc.
+* Documentation: the [Open Manual of Markdown Style](https://github.com/dialoa/open-manual-of-markdown-style)
+  for copyeditors.
 * A journal management tool: `dialectica`, a review management
   application that implements triple-blind refereeing (papers
   are anonymous to the editors) and a 'fishpond' model where
   editors pick papers to promote to the board.
 * Production tools, such as:
-  * pandoc filters to handle columns, statements (theorems), etc.
+  * pandoc filters to handle columns, statements (theorems), first-line indent, imagifying LaTeX etc.
   * a highly flexible template for advanced LaTeX output (pandokoma)
 * Development tools:
-  * `docker-ojs-dev` dockerized Open Journal Systems for plugin 
-    development.
+  * `docker-ojs-dev`, `docker-omp-dev` dockerized Open Journal Systems
+    and Open Management Press for plugin development.
   * `luabuilder`: to write large Pandoc lua filters from multiple
     files.
 
