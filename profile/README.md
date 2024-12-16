@@ -34,8 +34,6 @@ independently.
 * Development tools:
   * `docker-ojs-dev`, `docker-omp-dev` dockerized Open Journal Systems
     and Open Management Press for plugin development.
-  * `luabuilder`: to write large Pandoc lua filters from multiple
-    files.
 
 What is deposited here is currently used in the production
 process of journal, [Dialectica](https://dialectica.philsoophie.ch).
